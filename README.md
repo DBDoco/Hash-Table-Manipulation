@@ -17,19 +17,25 @@
 
 To clone and run this application, you'll need C++ compiler that works for you (tried and made with Visual Studio Community).
 
+
+Clone this repository
 ```bash
-# Clone this repository
 $ git clone https://github.com/DBDoco/Hash-Table-Manipulation.git
+```
 
-# Go into the repository
+Go into the repository
+```bash
 $ cd Hash-Table-Manipulation
+```
 
-# Compile with favorite C++ compiler and run the game from Release folder
+Compile with favorite C++ compiler and run the game from Release folder
+```bash
 version x86 release
+```
 
-# Using application
+## Using application
 After inputing the size of hash table the menu screen shows up which contains three main functions of the program:
 1. Input new element inside hash table;
 2. Search for an element inside of hash table;
 3. Show hash table.
-```
+
