@@ -28,7 +28,7 @@ Go into the repository
 $ cd Hash-Table-Manipulation
 ```
 
-Compile with favorite C++ compiler and run the game from Release folder
+Compile with favorite C++ compiler and run the program from Release folder
 ```bash
 version x86 release
 ```
