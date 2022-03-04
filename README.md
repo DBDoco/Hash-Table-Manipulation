@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h4 align="center">Simple C++ application made as a college assignment.</h4>
+<h4 align="center">Simple C++ application (algorithm) made as a college assignment.</h4>
 
 <p align="center">
   <img src="https://media1.giphy.com/media/R2g7n28X7eYx5ZZlmR/giphy.gif?cid=790b76114aa4831da614b768fb58d41817929a7e04f65629&rid=giphy.gif&ct=g" alt="hash" />
